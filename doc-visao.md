@@ -70,6 +70,12 @@ Esta funcionalidade permitirá que o usuário, já cadastrado, registre seu flux
 ### Controle de contas
 O usuário poderá adicionar cobranças futuras para que o software exemplifique o melhor método para não entrar em dívida.
 
-## 6. Referências 
+## 6. Abordagem de Desenvolvimento de software
+A abordagem Ágil é a metodologia de desenvolvimento de software escolhida pela equipe.
+
+## 7. Abordagem de Engenharia de Requisitos
+A abordagem Ágil é a metodologia de desenvolvimento de requisitos escolhida pela equipe.
+
+## 8. Referências 
 * https://agenciabrasil.ebc.com.br
 
