@@ -1,5 +1,7 @@
 # Documento de visão
 
+(<span style="color:red">A EQUIPE NÃO UTILIZOU O TEMPLARE DO DOCUMENTO QUE DEVERIA, O QUAL ESTÁ DISPONÍVEL NO APRENDER, UNIDADE 1. COM ISSO, A EQUIPE NÃO PARESENTA AS INFORMAÇÕES SOLICITADAS PARA O PROJETO, SENDO: OBJETIVO DO PRODUTO; ABORDAGEM DE DESENVOLVIMENTO DE SOFTWARE; ABORDAGEM DE ENGENHARIA DE REQUISITOS, LIÇÕES APRENDIDAS. POR OUTRO LADO, APRESENTA UM CONJUNTO DE INFORMAÇÕES QUE NÃO FORAM SOLICITADAS E, QUE PARA ESSE MOMENTO, NÃO SÃO RELEVANTES. A EQUIPE DEVE REFAZER TODO O DOCUMENTO.</span>)
+
 ## Histórico de versão
 
 |    Data    | Versão |                     Modificação                     |       Autor        |
@@ -20,11 +22,11 @@ No contexto de uma sociedade capitalista um dos principais desafios é o control
 | Quem |  Necessita de ajuda com controle financeiro   |
 | O |  Economicon   |
 | Que |  Ajuda e incentiva o controle de gastos  |
-| Ao contrário  |  Aplicativos padrões dos bancos    |
-| Nosso produto |  Visa focar no controle de gastos de forma gamificada a fim de facilitar e recompensar o usuário    |
+| Ao contrário  |  <span style="color:red">Aplicativos padrões dos bancos</span>  *(QUAIS?)*  |
+| Nosso produto |  Visa focar no controle de gastos de forma gamificada a fim de facilitar e *recompensar* *???* o usuário    |
 
 ## 3. Descrição do usuário
-Grande parte da população não possui conhecimento, ou não tem incentivo para manter um bom controle de gastos, desta forma o Economicon terá como principal objetivo ajudar esses usuários a alcançar a independência financeira.
+Grande parte da população não possui conhecimento, ou não tem incentivo para manter um bom controle de gastos, desta forma o Economicon terá como principal objetivo ajudar esses usuários a alcançar a independência financeira. (<span style="color:red">Controle de Gastos; Independência Financeira; Recompensar o Usuário... estabeleçam o que, de fato, o produto se propõe a fazer</span>)
 	
 ### 3.1 Demográficos de Mercado
 De acordo com o levantamento da Pesquisa de Endividamento e Inadimplência do Consumidor (Peic), em 2021 o endividamento médio das famílias brasileiras foi de 70,9%, o maior número em 11 anos.
