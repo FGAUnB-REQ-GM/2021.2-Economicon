@@ -18,5 +18,5 @@ Em breve
 
 |Integrantes|Foto|GitHub| Matricula|
 |-----------|----|------|----------|
-Felipe Agustini | <img alt = "Felipe Agustini" src="/imagens/fotointegrantes/felipeagustini.jpeg" width = "100"/> | fealps | 180119818|
+Felipe Agustini | <img alt = "Felipe Agustini" src="imagens/fotointegrantes/felipeagustini.jpeg" width = "100"/> | fealps | 180119818|
 
