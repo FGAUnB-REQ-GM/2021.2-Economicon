@@ -12,6 +12,7 @@ docs_dir: docs/
 
 nav: 
   - Sobre o projeto: index.md
-  - Documento de visão: 
-      - Visão Geral: Documento_visao/visao.md
-    
+  - Visão Geral: 
+      - Problema e Abordagem: Documento_visao/visao.md
+      - Aprendizados: Documento_visao/licoes.md
+  

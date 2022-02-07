@@ -1,7 +1,6 @@
-
 # Economicon
 
-## 1 Visão geral do produto e projeto
+## 1. Visão geral do produto e projeto
 ### 1.1 Declaração do Problema
 
 <table>
@@ -70,11 +69,47 @@ Usaremos de sprints com duração flexíveis conformes as entregas da disciplina
 
 Para nossa organização usaremos de Kanban para manter um melhor acompanhamento das atividades desenvolvidas pelo grupo.
 
+## 3. Abordagem de Engenharia de Requisitos
+### 3.1 Elicitação de Requisitos
+
+
+| Atividade | Método | Ferramenta |
+|-----------| ------ |------------|
+| Brainstorm | Ideação | Miro |
+| Prototipação | Story Board e baixa fidelidade | StoryBoardThat e Figma  |
+
+### 3.2 Análise de Requisitos
+
+| Atividade | Método | Ferramenta |
+|-----------| ------ |------------|
+| Avaliação de requisitos | Reunião de elicitação, o quão implementáveis são os requisitos encontrados | Meets |
+
+### 3.3 Documentação de Requisitos
+
+| Atividade | Método | Ferramenta |
+|-----------| ------ |------------|
+| Documentação dos requisitos de software | Documentação dos epicos, requisitos funcionais, historias de usuário, casos de uso e requisitos não funcionais | GitHub |
+
+### 3.4 Verificação e Validação de Requisitos
+
+| Atividade | Método | Ferramenta |
+|-----------| ------ |------------|
+| Validação de requisitos | Confirmação de que os requisitos de forma individual e em conjunto estão conforme stackholders | GitHub |
+| Verificação de requisitos | Confirmação de que os requisitos de forma individual e em conjunto estão documentados | Issues do GitHub e GitHub Pages |
+
+
+### 3.5 Gerenciamento de Requisitos
+
+| Atividade | Método | Ferramenta |
+|-----------| ------ |------------|
+| Gerenciamento de requisitos | Manuntenção do backlog do produto através de sprints e reuniões de plannings e restrospectivas semanais | Issues do GitHub e GitHub Pages |
+
+
 ## Histórico de versão
 
 | Data | Versão |              Modificação               |       Autor        | Revisor |
 | :--------: | :----: | :------------------------------: | :----------------: | :----------------: |
-| 01/02/2022 |  0.1   |       Criação da primeira versão do documento       |     @HenriqueHida  ||
+| 01/02/2022 |  0.1   |       Criação da primeira versão do documento       |     @HenriqueHida  | Felipe Agustini |
 | 07/02/2022 |  0.2   |       reformulação do documento após feedback       |   Felipe Agustini  ||
 
 ---
