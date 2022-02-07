@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Economicon
+Logo do produto (em breve)
+## Sobre o projeto
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Disciplina: Requisitos de Software
 
-## Commands
+Docente: George Marsicano 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Esse repositório destina-se à documentação do projeto do Grupo Hegruma da disciplina de Requisitos de Software no semestre 2021/2.
 
-## Project layout
+O Economicon é um web app em desenvolvimento pelos alunos da Universidade de Brasília. Seu objetivo é facilitar o controle da vida financeira dos usuários de forma gamificada, afim de promover maior interação com a aplicação.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Resultados
+#### Entrega 03/02 - Unidade 1:
+Em breve 
+
+## A Equipe Hegruma
+
+|Integrantes|Foto|GitHub| Matricula|
+|-----------|----|------|----------|
+Felipe Agustini | <img alt = "Felipe Agustini" src="/imagens/fotointegrantes/felipeagustini.jpeg" width = "100"/> | fealps | 180119818|
+

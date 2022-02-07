@@ -11,6 +11,7 @@ theme:
 docs_dir: docs/
 
 nav: 
-  - Sobre o projeto: sobre.md
-  - Documento de visão: visao.md
-  - Usando o mkdocs (remover dps): index.md
+  - Sobre o projeto: index.md
+  - Documento de visão: 
+      - Visão Geral: Documento_visao/visao.md
+    
