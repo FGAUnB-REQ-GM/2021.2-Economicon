@@ -12,5 +12,5 @@ docs_dir: docs/
 
 nav: 
   - Sobre o projeto: sobre.md
-  - Documento de visão: doc-visao.md
+  - Documento de visão: visao.md
   - Usando o mkdocs (remover dps): index.md
