@@ -1,0 +1,16 @@
+site_name: Economicon
+
+theme:
+  name: material
+  favicon: 
+  logo: 
+  palette:
+    primary: blue
+  language: pt
+
+docs_dir: docs/
+
+nav: 
+  - Sobre o projeto: sobre.md
+  - Documento de visão: doc-visao.md
+  - Usando o mkdocs (remover dps): index.md
