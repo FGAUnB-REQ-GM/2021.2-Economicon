@@ -14,6 +14,12 @@ O Economicon é um web app em desenvolvimento pelos alunos da Universidade de Br
 #### Entrega 03/02 - Unidade 1:
 Em breve 
 
+#### Entrega 15/2 - Unidade 2:
+
+Requisitos funcionais e não funcionais
+
+Em breve 
+
 ## A Equipe Hegruma
 
 |Integrantes|Foto|GitHub| Matricula|
