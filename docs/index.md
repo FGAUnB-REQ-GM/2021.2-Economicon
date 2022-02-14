@@ -26,3 +26,5 @@ Em breve
 |-----------|----|------|----------|
 | Felipe Agustini | <img alt = "Felipe Agustini" src="imagens/fotointegrantes/felipeagustini.jpeg" width = "100"/> | fealps | 180119818|
 | Henrique Hida | <img alt = "Henrique Hida" src="imagens/fotointegrantes/henriquehida.jpeg" width = "100"/> | HenriqueHida | 180113569|
+| Thiago Gomes | <img alt = "Thiago Gomes" src="imagens/fotointegrantes/thiagogomes.jpeg" width = "100"/> | thgomes | 190055294|
+
