@@ -18,5 +18,5 @@ Em breve
 
 |Integrantes|Foto|GitHub| Matricula|
 |-----------|----|------|----------|
-Felipe Agustini | <img alt = "Felipe Agustini" src="imagens/fotointegrantes/felipeagustini.jpeg" width = "100"/> | fealps | 180119818|
-
+| Felipe Agustini | <img alt = "Felipe Agustini" src="imagens/fotointegrantes/felipeagustini.jpeg" width = "100"/> | fealps | 180119818|
+| Henrique Hida | <img alt = "Henrique Hida" src="imagens/fotointegrantes/henriquehida.jpeg" width = "100"/> | HenriqueHida | 180113569|
