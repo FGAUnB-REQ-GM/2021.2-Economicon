@@ -12,7 +12,15 @@ Primeira reunião via meets, com a finalidade de alinhamento, troca de ideias e 
 - [X] Aprendizado sobre gamificação
 
 ### Detalhes
+Foi passado o conhecimento do funcionamento do mkdocs para o resto do grupo
+Utilizamos o Miro para o brainstorm e levantamento dos requisitos
+Foi passado o conhecimento das tecnicas de gamificação e o foi definido o framework a ser utilizado
 ### Observação
+### Participantes
+- [x] Felipe Agustini
+- [x] Henrique Hida 
+- [x] Thiago Gomes
+- [x] Christian Fleury
 --- 
 
 
