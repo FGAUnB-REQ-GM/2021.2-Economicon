@@ -1,6 +1,6 @@
 # Economicon
 
-<img alt = "Logo Economicon" src="imagens/logo/EconomiconLogo.png" width = "100"/> 
+<img alt = "Logo Economicon" src="/imagens/logo/EconomiconLogo.png" width = "100"/> 
 
 ## Sobre o projeto
 
