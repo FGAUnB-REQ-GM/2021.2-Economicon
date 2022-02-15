@@ -6,8 +6,13 @@ theme:
   logo: 
   palette:
     primary: blue
+  
   language: pt
 
+markdown_extensions:
+    - pymdownx.tasklist:
+        custom_checkbox: true
+        
 docs_dir: docs/
 
 nav: 
