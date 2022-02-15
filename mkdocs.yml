@@ -20,5 +20,6 @@ nav:
   - Visão Geral: 
       - Problema e Abordagem: Documento_visao/visao.md
       - Aprendizados: Documento_visao/licoes.md
+      - Lista de Requisitos: Documento_visao/requisitos.md
   - Reuniões e Sprints: 
       - Atas de reunião: meets/reuniao.md
