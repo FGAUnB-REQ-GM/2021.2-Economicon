@@ -2,16 +2,18 @@ site_name: Economicon
 
 theme:
   name: material
-  favicon: 
-  logo: 
-  palette:
-    primary: blue
+  favicon: imagens/logo/icon.png
+  logo: imagens/logo/icon.png
+
   
   language: pt
 
 markdown_extensions:
     - pymdownx.tasklist:
         custom_checkbox: true
+
+extra_css:
+  - stylesheets/extra.css
         
 docs_dir: docs/
 
