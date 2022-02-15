@@ -13,15 +13,15 @@ A documentação do projeto pode ser acessada através do link:
 a documentação é feita usando mkdocs
 ## Instalação
 para instalar o mkdocs no windows:
-    ``` python -m pip install mkdocs ```
+    : ``` python -m pip install mkdocs ```
 Em seguida instale o tema "Material"    
-    ``` python -m pip install mkdocs-material ```
+    : ``` python -m pip install mkdocs-material ```
 ## Utilização
 Lembre sempre de antes de qualquer modificação usar ``` git pull ```
 
 Para rodar um servidor local do mkdocs use:
-    ```mkdocs serve ```
+    : ```mkdocs serve ```
 
 Para dar deploy:
-        - De push na branch *docs* ``` git push origin docs ```
-        - e por fim de o deploy    ``` mkdocs gh-deploy ``` 
+        : De push na branch *docs* ``` git push origin docs ```
+        : e por fim de o deploy    ``` mkdocs gh-deploy ``` 
