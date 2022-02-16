@@ -1,5 +1,9 @@
 # Economicon
-Logo do produto (em breve)
+
+<div id="logo">
+    <img alt = "Logo Economicon" src="imagens/logo/economiconLogo.png" width = "100"/> 
+</div>
+
 ## Sobre o projeto
 
 Disciplina: Requisitos de Software

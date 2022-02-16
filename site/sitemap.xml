@@ -13,6 +13,14 @@
     <url>
          <loc>None</loc>
          <lastmod>2022-02-15</lastmod>
+<<<<<<< HEAD
+=======
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>None</loc>
+         <lastmod>2022-02-15</lastmod>
+>>>>>>> 21848506f37031a9cf56a895e817b964f53ce645
          <changefreq>daily</changefreq>
     </url>
 </urlset>
