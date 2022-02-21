@@ -6,7 +6,7 @@ Primeira reunião via meets, com a finalidade de alinhamento, troca de ideias e 
 ### Objetivos
 - [x] Aprender a mexer no mkdocs
 - [ ] Gravação do vídeos
-- [ ] Definir Logo do projeto
+- [x] Definir Logo do projeto
 - [x] Brainstorm de requisitos do produto
 - [ ] Definição dos requisitos do produto
 - [X] Aprendizado sobre gamificação
@@ -21,6 +21,25 @@ Foi passado o conhecimento das tecnicas de gamificação e o foi definido o fram
 - [x] Henrique Hida 
 - [x] Thiago Gomes
 - [x] Christian Fleury
+--- 
+## Reunião 1 - 21/02
+### Descrição
+Refatoração de documentos
+### Objetivos
+- [x] Refatorar Requisitos
+- [ ] Gravação do vídeos
+- [x] Colocar imagens do brainstorm no site
+- [x] Organizar requisitos conforme safe 
+- [ ] Canva MVP
+
+### Detalhes
+
+### Observação
+### Participantes
+- [x] Felipe Agustini
+- [x] Henrique Hida 
+- [ ] Thiago Gomes
+- [ ] Christian Fleury
 --- 
 
 
