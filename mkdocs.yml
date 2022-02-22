@@ -1,0 +1,29 @@
+site_name: Economicon
+
+theme:
+  name: material
+  favicon: imagens/logo/icon.png
+  logo: imagens/logo/icon.png
+
+  
+  language: pt
+
+markdown_extensions:
+    - pymdownx.tasklist:
+        custom_checkbox: true
+
+extra_css:
+  - stylesheets/extra.css
+        
+docs_dir: docs/
+
+nav: 
+  - Sobre o projeto: index.md
+  - Visão Geral: 
+      - Problema e Abordagem: Documento_visao/visao.md
+      - Aprendizados: Documento_visao/licoes.md
+      - Lista de Requisitos: Documento_visao/requisitos.md
+      - Canvas MVP: Documento_visao/canvas_mvp.md
+
+  - Reuniões e Sprints: 
+      - Atas de reunião: meets/reuniao.md
