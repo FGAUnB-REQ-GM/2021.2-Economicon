@@ -30,7 +30,7 @@ Refatoração de documentos
 - [ ] Gravação do vídeos
 - [x] Colocar imagens do brainstorm no site
 - [x] Organizar requisitos conforme safe 
-- [ ] Canva MVP
+- [x] Canva MVP
 
 ### Detalhes
 
@@ -38,8 +38,8 @@ Refatoração de documentos
 ### Participantes
 - [x] Felipe Agustini
 - [x] Henrique Hida 
-- [ ] Thiago Gomes
-- [ ] Christian Fleury
+- [x] Thiago Gomes
+- [x] Christian Fleury
 --- 
 
 

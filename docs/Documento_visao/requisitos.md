@@ -52,29 +52,93 @@
 | RNF7 | O layout do sistema deve ser em português  |
 
 ## Requisitos no padrão SAFe
-| Requisitos  | Épico | Funcionalidade | História de usuários |
-|:---|:-----|:-----|:-----|
-|RF01 |Sessão de usuário| CRUD de usuário | Eu como usuário desejo me cadastrar na plataforma.|
-|RF02|Sessão de usuário | CRUD de usuário | Eu como usuário desejo editar meus dados.|
-|RF03|Sessão de usuário | CRUD de usuário | Eu como usuário desejo ter opção de excluir minha conta.|
-|RF04|Sessão de usuário | Acesso de usuário | Eu como usuário desejo poder recuperar minha senha.|
-|RF05|Sessão de usuário | Acesso de usuário | Eu como usuário desejo acessar a plataforma com a minha conta.|
-|RF06| Gestão financeira | Gerenciamento de gastos | Eu como usuário desejo cadastrar minha entrada e saída de caixa. |
-|RF07 | Gestão financeira| Gerenciamento de gastos | Eu como usuário desejo editar minha entrada e saída de caixa.|
-|RF08 | Gestão financeira| Gerenciamento de gastos | Eu como usuário desejo excluir minha entrada e saída de caixa.|
-|RF09 | Gestão financeira| Gerenciamento de gastos | Eu como usuário desejo visualizar a listagem de gastos.|
-|RF10| Gestão financeira| Gerenciamento de gastos | Eu como usuário desejo cadastrar cobranças recorrentes.|
-|RF11 | Gestão financeira| Gerenciamento de gastos | Eu como usuário desejo editar cobranças recorrentes.|
-|RF12 | Gestão financeira| Gerenciamento de gastos | Eu como usuário desejo excluir cobranças recorrentes.|
-|RF13 | Gestão financeira | Planejamento financeiro | Eu como usuário desejo criar um plano financeiro.|
-|RF14 | Gestão financeira| Planejamento financeiro | Eu como usuário desejo editar um plano financeiro.|
-|RF15 | Gestão financeira| Planejamento financeiro | Eu como usuário desejo excluir um plano financeiro.|
-|RF16 | Gestão financeira| Planejamento financeiro | Eu como usuário desejo adicionar objetivos de compra.|
-|RF17 | Gestão financeira| Planejamento financeiro | Eu como usuário desejo editar objetivos de compra.|
-|RF18 | Gestão financeira| Planejamento financeiro | Eu como usuário desejo excluir objetivos de compra.|
-|RF19 | Gamificação | Gratificação do usuário  | Eu como usuário desejo ser notificado por cumprimento de objetivos.|
-|RF20 | Gamificação | Gratificação do usuário  | Eu como usuário desejo ser recompensado por cumprimento de objetivos.|
-|RF21 | Gamificação | Gratificação do usuário | Eu como usuário desejo ser recompensado por manter uma sequência de metas concluídas.|
+<table>
+    <thead>
+        <tr style="border: 1px solid black; border-collapse: collapse;">
+            <th > Requisitos</th>
+            <th> Épico </th>
+            <th> Funcionalidade </th>
+            <th> História de usuários </th>
+        </tr>
+    </thead>
+    <tbody style="border: 1px solid black; border-collapse: collapse;">
+        <tr>
+            <td>RF01</td>
+            <td rowspan=5 style="border: 1px solid black; border-collapse: collapse;">Sessão de usuário</td>
+            <td rowspan=3 style="border: 1px solid black; border-collapse: collapse;">CRUD de usuário</td>
+            <td >Eu como usuário desejo me cadastrar na plataforma.</td>
+        </tr>
+        <tr>
+            <td>RF02</td><td>Eu como usuário desejo editar meus dados.</td>
+        </tr>
+        <tr>
+            <td>RF03</td><td>Eu como usuário desejo ter opção de excluir minha conta.</td>
+        </tr>
+        <tr>
+            <td>RF04</td>
+            <td style="border: 1px solid black; border-collapse: collapse;" rowspan=2>Acesso de usuário</td> 
+            <td>Eu como usuário desejo poder recuperar minha senha.</td>
+        </tr>
+        <tr>
+            <td>RF05</td><td>Eu como usuário desejo acessar a plataforma com a minha conta.</td>
+        </tr>
+        <tr>
+            <td>RF06</td>
+            <td style="border: 1px solid black; border-collapse: collapse;" rowspan=13>Gestão financeira</td>
+            <td style="border: 1px solid black; border-collapse: collapse;" rowspan=7>Gerenciamento de gastos</td>
+            <td>Eu como usuário desejo cadastrar minha entrada e saída de caixa.</td>
+        </tr>
+        <tr>
+            <td>RF07</td><td>Eu como usuário desejo editar minha entrada e saída de caixa.</td>
+        </tr>
+        <tr>
+            <td>RF08</td><td>Eu como usuário desejo excluir minha entrada e saída de caixa.</td>
+        </tr>
+        <tr>
+            <td>RF09</td><td>Eu como usuário desejo visualizar a listagem de gastos.</td>
+        </tr>
+        <tr>
+            <td>RF10</td><td>Eu como usuário desejo cadastrar cobranças recorrentes.</td>
+        </tr>
+        <tr>
+            <td>RF11</td><td>Eu como usuário desejo editar cobranças recorrentes.</td>
+        </tr>
+        <tr>
+            <td>RF12</td><td>Eu como usuário desejo excluir cobranças recorrentes.</td>
+        </tr>
+        <tr>
+            <td>RF13</td>
+            <td style="border: 1px solid black; border-collapse: collapse;" rowspan=6>Planejamento financeiro</td>
+            <td>Eu como usuário desejo criar um plano financeiro.</td>
+        </tr>
+        <tr>
+            <td>RF14</td><td>Eu como usuário desejo editar um plano financeiro.</td>
+        </tr>
+        <tr>
+            <td>RF15</td><td>Eu como usuário desejo excluir um plano financeiro.</td>
+        </tr>
+        <tr>
+            <td>RF16</td><td>Eu como usuário desejo adicionar objetivos de compra.</td>
+        </tr>    
+        <tr>
+            <td>RF17</td><td>Eu como usuário desejo editar objetivos de compra.</td>
+        </tr>    
+        <tr>
+            <td>RF18</td><td>Eu como usuário desejo excluir objetivos de compra.</td>
+        </tr>    
+        <tr>
+            <td>RF19</td>
+            <td style="border: 1px solid black; border-collapse: collapse;" rowspan=3>Gamificação</td>
+            <td style="border: 1px solid black; border-collapse: collapse;" rowspan=3>Gratificação do usuário</td>
+            <td>Eu como usuário desejo ser notificado por cumprimento de objetivos.</td>
+        </tr>
+        <tr>
+            <td>RF20</td><td>Eu como usuário desejo ser recompensado por cumprimento de objetivos.</td></tr>
+        <tr>
+            <td>RF21</td><td>Eu como usuário desejo ser recompensado por manter uma sequência de metas concluídas.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Referências Bibliográficas
 * MARSICANO, George. Requisitos de Software: Tipos e Característica de Requisitos. Brasília. 2021. Apresentação em PowerPoint. 36 slides, color, Material de aula do curso de Engenharia de Software da FGA/UNB. Disponível em: https://aprender3.unb.br/pluginfile.php/1624498/mod_resource/content/0/REQ_Aula%202.1%20-%20Introdu%C3%A7%C3%A3o%20a%20ER-atualizado.pdf. Acesso em: 18 fev 2022
