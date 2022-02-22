@@ -1,1 +1,1 @@
-<img alt = "Christian Fleury" src="../../imagens/canvas/canvas_mvp.jpg"/> 
+<img alt = "Canvas MVP" src="../../imagens/canvas/canvas_mvp.jpg"/> 
