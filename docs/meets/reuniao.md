@@ -169,7 +169,9 @@
         </li>
     </ul>
 </details>
+
 ---
+
 <details>
     <summary>
         Reunião 3 - 28/02
@@ -207,7 +209,9 @@
         </li>
     </ul>
 </details>
+
 ---
+
 <details>
     <summary>
         Reunião 4 - 07/03
@@ -245,7 +249,9 @@
         </li>
     </ul>
 </details>
+
 ---
+
 <details>
     <summary>
         Reunião 5 - 14/03
@@ -318,4 +324,5 @@
         </li>
     </ul>
 </details>
+
 ---
