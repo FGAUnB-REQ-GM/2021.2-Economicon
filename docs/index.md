@@ -16,13 +16,29 @@ O Economicon é um web app em desenvolvimento pelos alunos da Universidade de Br
 
 ## Resultados
 #### Entrega 03/02 - Unidade 1:
-Em breve 
 
+- [x] Modelos de Ciclo de Vida de desenvolvimento de software;
+- [x] Abordadgens de ER;
+- [x] Visão do Produto;
 #### Entrega 15/2 - Unidade 2:
 
-Requisitos funcionais e não funcionais
+- [x] Requisitos Funcionais e Não Funcionais
+- [x] Backlog do produto
+- [x] Canva MVP
 
-Em breve 
+#### Entrega 17/3 - Unidade 3:
+- [x] User Story
+- [] Criterios de aceitação
+- [x] Kanban
+
+#### Entrega 07/4 - Unidade 4:
+- [] User story mapping
+- [] MVP1
+#### Entrega 28/4 - Unidade 5:
+- [] Casos de uso
+- [] Modelos de caso de uso
+- [] MVP2
+
 
 ## A Equipe Hegruma
 
