@@ -28,16 +28,16 @@ O Economicon é um web app em desenvolvimento pelos alunos da Universidade de Br
 
 #### Entrega 17/3 - Unidade 3:
 - [x] User Story
-- [] Criterios de aceitação
+- [ ] Criterios de aceitação
 - [x] Kanban
 
 #### Entrega 07/4 - Unidade 4:
-- [] User story mapping
-- [] MVP1
+- [ ] User story mapping
+- [ ] MVP1
 #### Entrega 28/4 - Unidade 5:
-- [] Casos de uso
-- [] Modelos de caso de uso
-- [] MVP2
+- [ ] Casos de uso
+- [ ] Modelos de caso de uso
+- [ ] MVP2
 
 
 ## A Equipe Hegruma
@@ -47,4 +47,4 @@ O Economicon é um web app em desenvolvimento pelos alunos da Universidade de Br
 | Felipe Agustini | <img alt = "Felipe Agustini" src="imagens/fotointegrantes/felipeagustini.jpeg" width = "100"/> | fealps | 180119818|
 | Henrique Hida | <img alt = "Henrique Hida" src="imagens/fotointegrantes/henriquehida.jpeg" width = "100"/> | HenriqueHida | 180113569|
 | Thiago Gomes | <img alt = "Thiago Gomes" src="imagens/fotointegrantes/thiagogomes.jpeg" width = "100"/> | thgomes | 190055294|
-| Christian Fleury | <img alt = "Christian Fleury" src="imagens/fotointegrantes/christian.jpg" width = "100"/> | chfleury | 190011602|
+| Christian Fleury | <img alt = "Christian Fleury" src="imagens/fotointegrantes/christian.jpg" width = "100" style="filter:grayscale(100%)"/> | chfleury | 190011602|

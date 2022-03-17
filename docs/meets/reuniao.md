@@ -22,7 +22,7 @@ Foi passado o conhecimento das tecnicas de gamificação e o foi definido o fram
 - [x] Thiago Gomes
 - [x] Christian Fleury
 --- 
-## Reunião 1 - 21/02
+## Reunião 2 - 21/02
 ### Descrição
 Refatoração de documentos
 ### Objetivos
@@ -31,7 +31,6 @@ Refatoração de documentos
 - [x] Colocar imagens do brainstorm no site
 - [x] Organizar requisitos conforme safe 
 - [x] Canva MVP
-
 ### Detalhes
 
 ### Observação
@@ -41,6 +40,52 @@ Refatoração de documentos
 - [x] Thiago Gomes
 - [x] Christian Fleury
 --- 
+--- 
+## Reunião 3 - 28/02
+### Descrição
+Não Foi feita
+### Objetivos
+- []
+### Detalhes
 
-
-
+### Observação
+### Participantes
+- [] Felipe Agustini
+- [] Henrique Hida 
+- [] Thiago Gomes
+- [] Christian Fleury
+--- 
+## Reunião 4 - 07/03
+### Descrição
+Não Foi feita
+### Objetivos
+- [x] 
+### Detalhes
+### Observação
+### Participantes
+- [] Felipe Agustini
+- [] Henrique Hida 
+- [] Thiago Gomes
+- [] Christian Fleury
+--- 
+## Reunião 5 - 14/03
+### Descrição
+Refatoração dos documentos, e criação dos documentos da Unidade 3
+### Objetivos
+- [x] Refatorar Historias de usuário
+- [x] Backlog do produto
+- [x] Kanban
+- [x] Critérios de Aceitação
+### Detalhes
+Refatorar Historias de usuário -> Felipe Agustini
+Kanban -> Thiago Gomes
+Backlog -> Henrique Hida 
+Critérios de Aceitação -> Todos
+### Observação
+Christian Fleury desistiu da matéria e não vai mais participar da equipe.
+### Participantes
+- [x] Felipe Agustini
+- [x] Henrique Hida 
+- [] Thiago Gomes
+- [] Christian Fleury
+--- 
