@@ -259,31 +259,33 @@
                 <input type="checkbox" disabled checked>
                 <span class="task-list-indicator">
                 </span>
-            </label> Refatorar Historias de usuário
+            </label> Refatorar Historias de usuário</li>
         <li class="task-list-item">
             <label class="task-list-control">
                 <input type="checkbox" disabled checked>
                 <span class="task-list-indicator">
                 </span>
-            </label> Backlog do produto
+            </label> Backlog do produto</li>
         <li class="task-list-item">
             <label class="task-list-control">
                 <input type="checkbox" disabled checked>
                 <span class="task-list-indicator">
                 </span>
-            </label> Kanban
+            </label> Kanban</li>
         <li class="task-list-item">
             <label class="task-list-control">
                 <input type="checkbox" disabled checked>
                 <span class="task-list-indicator">
                 </span>
-            </label> Critérios de Aceitação
+            </label> Critérios de Aceitação</li>
     </ul>
     <h3> Detalhes</h3>
-        Refatorar Historias de usuário -> Felipe Agustini
-        Kanban -> Thiago Gomes
-        Backlog -> Henrique Hida
-        Critérios de Aceitação -> Todos
+        <ul>
+        <li>Refatorar Historias de usuário -> Felipe Agustini</li>
+        <li>Kanban -> Thiago Gomes</li>
+        <li>Backlog -> Henrique Hida</li>
+        <li>Critérios de Aceitação -> Todos</li>
+        </ul>
     <h3> Observação</h3>
         Christian Fleury desistiu da matéria e não vai mais participar da equipe.
     <h3> Participantes</h3>
