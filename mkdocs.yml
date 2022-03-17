@@ -24,6 +24,7 @@ nav:
       - Aprendizados: Documento_visao/licoes.md
       - Lista de Requisitos: Documento_visao/requisitos.md
       - Canvas MVP: Documento_visao/canvas_mvp.md
+      - Backlog: Documento_visao/backlog.md
 
   - Reuniões e Sprints: 
       - Atas de reunião: meets/reuniao.md
